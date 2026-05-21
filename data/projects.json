@@ -30,7 +30,10 @@
     ],
     "starter_code": "starter_code/expense_tracker.py",
     "estimated_hours": 4,
-    "prerequisite_skills": ["Basic Programming Concepts", "Loops and Functions"],
+    "prerequisite_skills": [
+      "Basic Programming Concepts",
+      "Loops and Functions"
+    ],
     "views": 180,
     "recommendations": 45
   },
@@ -63,7 +66,11 @@
     ],
     "starter_code": "starter_code/weather_dashboard.html",
     "estimated_hours": 6,
-    "prerequisite_skills": ["HTML Basics", "CSS Basics", "JavaScript Variables"],
+    "prerequisite_skills": [
+      "HTML Basics",
+      "CSS Basics",
+      "JavaScript Variables"
+    ],
     "views": 320,
     "recommendations": 98
   },
@@ -134,7 +141,11 @@
     ],
     "starter_code": "starter_code/task_api.py",
     "estimated_hours": 18,
-    "prerequisite_skills": ["Python functions", "Basic HTTP concepts", "JSON data structure"],
+    "prerequisite_skills": [
+      "Python functions",
+      "Basic HTTP concepts",
+      "JSON data structure"
+    ],
     "views": 240,
     "recommendations": 75
   },
@@ -241,7 +252,10 @@
     ],
     "starter_code": "starter_code/data_report.py",
     "estimated_hours": 30,
-    "prerequisite_skills": ["Python Basics", "Understanding of lists and tabular data"],
+    "prerequisite_skills": [
+      "Python Basics",
+      "Understanding of lists and tabular data"
+    ],
     "views": 210,
     "recommendations": 60
   },
